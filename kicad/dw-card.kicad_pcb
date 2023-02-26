@@ -177,7 +177,7 @@
 
   (footprint "dw-card:btn_b" (layer "F.Cu")
     (tstamp 011554d2-f227-421d-8043-5bd2bfcade49)
-    (at 182.5 100.5)
+    (at 170.5 100.5)
     (property "Sheetfile" "dw-card.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")
@@ -7391,7 +7391,7 @@
 
   (footprint "dw-card:btn_a" (layer "F.Cu")
     (tstamp beebe707-d337-4818-b864-8c7fa28f2376)
-    (at 170.5 100.5)
+    (at 182.5 100.5)
     (property "Sheetfile" "dw-card.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Mounting Hole without connection")

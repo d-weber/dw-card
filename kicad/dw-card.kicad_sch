@@ -7013,6 +7013,30 @@
     )
   )
 
+  (symbol (lib_id "Graphic:Logo_Open_Hardware_Small") (at 247.65 173.99 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid d993b956-fb28-4978-ae9d-a1fad8b69abc)
+    (property "Reference" "LDW3" (at 247.65 167.005 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "Logo_Open_Hardware_Small" (at 247.65 179.705 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "dw-card:qrcode_github" (at 247.65 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 247.65 173.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "dw-card"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+          (reference "LDW3") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "dw-card:USB_C_Receptacle_USB2.0") (at 188.595 98.425 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db9e038d-277d-4d03-ad5c-6ce0ba4c2299)
