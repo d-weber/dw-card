@@ -1,0 +1,32 @@
+(footprint "btn_dir" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -11.2 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7f0fd505-9254-42ab-971b-8f0be2b5c0b6)
+  )
+  (fp_text value "btn_dir" (at 0 -9.7 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8a7bee42-fb96-4a01-b160-c07d0eee3e56)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -8.2 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 159ebb44-69ae-4a08-984c-652a7108bca7)
+  )
+  (fp_poly
+    (pts
+      (arc (start 0.941421 0.141421) (mid 0.999999 0) (end 0.941421 -0.141421))
+      (arc (start -0.658579 -1.941421) (mid -0.876537 -1.984776) (end -1 -1.8))
+      (arc (start -0.999999 1.8) (mid -0.876536 1.984775) (end -0.658579 1.941421))
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.Cu") (tstamp a964a1c0-18e7-4fee-b56d-b5463b1626ba))
+  (fp_poly
+    (pts
+      (arc (start 0.942383 0.14123) (mid 1.000961 -0.000191) (end 0.942383 -0.141612))
+      (arc (start -0.657617 -1.941612) (mid -0.875575 -1.984967) (end -0.999038 -1.800191))
+      (arc (start -0.999037 1.799809) (mid -0.875574 1.984584) (end -0.657617 1.94123))
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.Mask") (tstamp e353e144-b167-4b31-91a5-b9e729787023))
+)

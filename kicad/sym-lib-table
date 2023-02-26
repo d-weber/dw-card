@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "espressif")(type "KiCad")(uri "${KIPRJMOD}/symbols/espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "dw-card")(type "KiCad")(uri "${KIPRJMOD}/symbols/dw-card.kicad_sym")(options "")(descr ""))
+  (lib (name "SIM7080G")(type "KiCad")(uri "${KIPRJMOD}/symbols/SIM7080G.kicad_sym")(options "")(descr ""))
+  (lib (name "MFF2")(type "KiCad")(uri "${KIPRJMOD}/symbols/MFF2.kicad_sym")(options "")(descr ""))
+)
